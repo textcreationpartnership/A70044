@@ -1,0 +1,428 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peace, the end of the perfect and upright demonstrated and usefully improved in a sermon preached upon the occasion of the death and decease of that piously affected and truely religious matron, Mrs. Anne Mason ... / by Mr. James Fitch ...</title>
+            <author>Fitch, James, 1622-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70044</idno>
+            <idno type="STC">Wing F1066</idno>
+            <idno type="STC">ESTC R35676</idno>
+            <idno type="EEBO-CITATION">15538737</idno>
+            <idno type="OCLC">ocm 15538737</idno>
+            <idno type="VID">103639</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103639)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1149:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peace, the end of the perfect and upright demonstrated and usefully improved in a sermon preached upon the occasion of the death and decease of that piously affected and truely religious matron, Mrs. Anne Mason ... / by Mr. James Fitch ...</title>
+                  <author>Fitch, James, 1622-1702.</author>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Green,</publisher>
+                  <pubPlace>Cambridge [Mass.] :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, torn, with slight loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mason, Anna Peck, d. 1672.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, American --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103639:1"/>
+            <pb facs="tcp:103639:1"/>
+            <p>PEACE <hi>The End of the Perfect and <g ref="char:V">Ʋ</g>pright,</hi> Demonſtrated and uſefully Improved in a <hi>SERMON,</hi> Preached upon the Occaſion of the Death and Deceaſe of that Piouſly Affected, and truely Religious MATRON, <hi>Mrs. ANNE MASON: Sometime Wife to Major Maſon, who not long after finiſhed his Courſe, and is now at reſt.</hi>
+            </p>
+            <p>By Mr. <hi>James Fitch</hi> Paſtor of the Church of Chriſt at <hi>Norwich.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 10.7.</hi>
+               </bibl> The Memory of the juſt is bleſſed.</q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 112.6.</hi>
+               </bibl> The Righteous ſhall be had in everlaſting remembrance.</q>
+            <q>
+               <bibl>
+                  <hi>Heb. 6.11.</hi>
+               </bibl> We deſire that every one of you do ſhew the ſame diligence, to the full aſſurance of hope unto the end.</q>
+            <q>
+               <bibl>
+                  <hi>12.</hi>
+               </bibl> That ye be not ſloathful, but followers of them, who through Faith and Patience inherit the promiſes.</q>
+            <p>
+               <hi>CAMBRIDGE</hi> Printed by <hi>Samuel Green.</hi> 1672.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:103639:2"/>
+            <opener>
+               <salute>Chriſtian Reader:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Abuſive, and juſtly to be Condemned practiſe of too too ma<g ref="char:EOLhyphen"/>ny, who in Preaching Funeral Sermons, by miſ-repreſenting the Dead, have dangerouſly miſled the living, and by flatteri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s corrupted many, hath occaſioned not a few to queſtion (if not conclude againſt) the lawfulneſs of Preaching at ſuch ſeaſons: and made others leſs forward, and almoſt afrai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to make a due improvement of ſuch awful, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olemn oportunities, by comporting with the providence of God, in making uſe of thoſe heart awakening ſtrokes of his angry <gap reason="illegible" resp="#UOM" extent="1+ words">
+                  <desc>〈◊…〉</desc>
+               </gap> Almighty Arm, whereby we have been bereav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of much of our ſtrength and glory. But ſurely it i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the holy will of God which determineth what is good and lawful, and that by an eternal Law, not alterable by the ſinful luſts of men. <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> The Veſſels of the Temple loſt not their Holineſs of Conſecration to the ſervice of the true and living God, by their ill uſage in <hi>Babilon.</hi> Holy <hi>Paul,</hi> 1 Cor. 3 22. ſetting down and ſum<g ref="char:EOLhyphen"/>ming up the riche of true Believers, put into t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Inventory, <hi>Life</hi> and <hi>Death, Life is yours, and Death is yours, but not your own only, but of others, who are Fellow members of the ſame Myſtical Body, and part of the fulneſs of him who filleth all in all.</hi> Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Worthies whoſe Live &amp; Deaths are Recorded in <hi>Heb. Chap. 11.</hi> are preſented, <hi>Chap. 12.1. as a Cloud of Witneſſes,</hi> to be minded by us, and followed in running with patience, the race that is ſet before us. Had not importunity of ſuch as k<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew and honoured the eminent piety of that deceaſed Saint, now at reſt (whoſe de<g ref="char:EOLhyphen"/>parture out of this World occaſionea this enſuing Sermon) out of a deſire to Embalm her Name, and preſerve the memory of a life and death ſo ex<g ref="char:EOLhyphen"/>emplary and inſtructi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, prevailea with the pious Author (too much a lover of privacie and retirement) theſe uſeful Notes had not ſo publickly preſented themſelves unto t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y view;</p>
+            <p>Now the God of al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Grace, vouchſafe ſo to ſanctifie this with other like help<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that when ſumm<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed hence into another World, thou mayeſt be able to ſay and pray wit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good Hezechiah, <hi>Remember now, O Lord, I beſeech thee, how I have walked before thee in truth, and with a perfect heart, and have done that which is good in thy ſight:</hi>
+            </p>
+            <closer>
+               <g ref="char:V">Ʋ</g>nto His mercy I comm<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> thee, and reſt
+<signed>thine in him J. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:103639:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 37.37.</hi>
+                  </bibl>
+                  <p>Mark the Perfect and behold the <g ref="char:V">Ʋ</g>pright, for the end of that man is peace.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">E</seg>Very Word of God as its <hi>his Word</hi> is very precious, but ſome Honey Combes contain more Honey and better Honey then ſome other, <hi>The Word of God is more pre<g ref="char:EOLhyphen"/>cious then Gold, then fine Gold, and ſweeter then the Honey and the Honey Combe,</hi> as in <hi>Pſal.</hi> 19.10. Judicious and pious <hi>Calvin,</hi> that famous Expoſitor ſaith of this Pſalm, that it contain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Doctrine</hi> Principally uſefull; and he gives weighty Reaſon to pr<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> it, becauſe <hi>David</hi> by this Pſalm ſhewes that though the Godly ſuffer Adv<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y in a Godly way, and the wicked proſper in their wicked way and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeemingly goes ill with the beſt, and well with the worſt perſon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for a time, yet the vaſt difference the Lord makes between the Godly and the wicked, makeing the Godly to be happy <hi>through his Grace,</hi> in their greateſt miſery, and leaving the wicked through his <hi>juſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ment,</hi> in a curſed and miſerable ſtate, in their greateſt outward <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and the difference between theſe two is very Remarkable, in th<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and in their <hi>Death. Firſt</hi> The difference in their <hi>Lives,</hi> and the <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rious diſp<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſations of God to them, are in many particulars ſpeci<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> from the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rſe</hi> to the <hi>25.</hi> And the difference in reſpect of the<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Death,</hi> from the <hi>35 verſe</hi> to the end of this <hi>Pſalm:</hi> The General which contains the ſpecialties is expr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſed in my Text, this <hi>37 verſe. Mark the Perfect, and behold the <g ref="char:V">Ʋ</g>pright: for the end of that man is Peace</hi>
+            </p>
+            <p>The Text implies.</p>
+            <p n="1">1. That ſome Perſons are remarkable Subjects of Gods mercy and Divine favour. <hi>Who are theſe?</hi> but the <hi>Perfect,</hi> the <hi>upright.</hi>
+            </p>
+            <p n="2">2. In what are they remarkable? <hi>Firſt,</hi> As they are <hi>perfect and up<g ref="char:EOLunhyphen"/>right ones,</hi> ſo they are to be marked in their <hi>Lives. Secondly,</hi> In reſpect of their latter end, and thus they are to be marked in their <hi>D<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:103639:3"/>Mark the perfect man and behold the upright, for the end of that man is peace. Thirdly,</hi> Our Duty, the Pſalmiſt calls for ſpecial obſervation, mark and behold the upright how he lives, and how he dyes? what his life is, and what is his end? and as <hi>Calvin</hi> renders it, obſerve and con<g ref="char:EOLhyphen"/>ſider: This Pſalm, of which theſe words are a principal part, they may be taken as an <hi>Epitome,</hi> briefly containing the whole, being to open that which is a <hi>Paradox</hi> as he calls it: The Doctrine from theſe words is,</p>
+            <p>Doct. <hi>The Life and Latter end of the Godly containt obſerva<g ref="char:EOLhyphen"/>ble things, which God requires us to conſider.</hi>
+            </p>
+            <p>What the Life, and what the Death of the Godly is, our God calls us to mark and behold: For the Explication of this Doctrine, let us conſider, (1.) What are the Obſervable things in the Life and in the Death of the Godly? &amp; 2. what ought to be our Obſervation of them? We are not to expect that all the Obſervable things reſpecting the Life and the Death of the Godly can be particularly contained and expreſt in one Sermon, although an Angel from Heaven ſhould be ſent at this time to Preach to you; for much of the time through all Eternity ſhall be ſpent upon this Subject amongſt the Spirits of the Juſt made perfect; But I ſhall give you ſome Obſervations concerning ſome ſpecialties, to ſet your Obſervations to work ſo far as God ſhall aſſiſt in this very af<g ref="char:EOLhyphen"/>flicting time.</p>
+            <p>
+               <hi>Firſt,</hi> Concerning the Obſervations reſpecting the life of the Godly, the Text preſents us with two Generals: <hi>Firſt,</hi> The perfection of the Godly. <hi>Secondly,</hi> The uprightneſs of ſuch, <hi>Mark the Perfect and be<g ref="char:EOLhyphen"/>hold the <g ref="char:V">Ʋ</g>pright;</hi> concerning the firſt of theſe, the Queſtion ariſeth, <hi>What perfection can be obſerved in a Godly mans Life, while he lives with a body of ſin in him?</hi> I Anſwer, Yet it's to be marked, (1) That the Godly in this life have ſome beginnings of perfection, and thoſe which ſhall grow up till they come to perfection, and ſo abide for ever: There is a ſpirit in a Believer which breathes and reacheth after, and is reſtleſs for perfection, and which is called, <hi>A heart perfect towards God,</hi> 2 Chron 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.11. and you know the uſual diſtinction, which Divines make uſe of, a perfection of parts though not of degrees, <hi>Every part and power of Soul and Body being Sanctisfied,</hi> 1 Theſſ. 5.23. <hi>and fitted in ſome de<g ref="char:EOLhyphen"/>gree and meaſure to every good work,</hi> 2 Tim. 2.21. Oh mark how the Godly will be doing and trading in every good work to which God calls him, according to the Relation towards God or Man in works of
+<pb n="3" facs="tcp:103639:3"/>Holineſs, and Righteouſneſs, Love and Mercy, ſhewing himſelf to be a childe of his Heavenly Father, and will be imitating his Divine and abſolutely perfect Example, <hi>Mat. 5 ult. be you perfect as your Heavenly Father is perfect,</hi> and he is a perfect Childe of God though not grown up to be a perfect man in Chriſt. (2) It's likewiſe to be obſerved, that ſincerity and uprightneſs in Goſpel ſenſe is called perfection, and the God of Grace calls his upright ones, perfect ones, &amp; accept their upright ſervice, as pecfect ſervice; you know <hi>Davids</hi> charge to his Son, the charge of a Godly and dying Parent to his ſurviving and ſucceeding childe, <hi>My Son, ſerve God with a perfect heart,</hi> 2 Chron. 28.9. and <hi>Hezechiah ſerved God with a perfect heart,</hi> 2 King. 20 3. and in this ſenſe the next words may be expoſitive to the former, mark the perfect. Queſtion is, <hi>Who is perfect?</hi> the Anſwer, Behold the upright, as Hezechiah under a ſentence of death, turned his face towards the wall and prayed to the Lord and ſaid, <hi>Remember how O Lord, I have walked before thee in truth and with a perfect heart, have done that which is good in thy ſight, and wept ſore,</hi> Iſai. 38.2, 3. How I have walked in Truth, that is in uprightneſs and ſince<g ref="char:EOLhyphen"/>rity, doing that which is good in thy ſight, not wandering after the ſight of m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e eyes; not pleaſing carnal and ſinful affections, and therefore that I have walked with a perfect heart, that which the God of Grace will accept. perfect, and calls it perfect, and therefore the queſtion y<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> remains u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anſwered; <hi>Queſt. What are the remarkable things re<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>cting the life of the upright?</hi> I Anſwer, Firſt, In reſpect of actings to<g ref="char:EOLhyphen"/>wards God. Secondly, Actings towards man. Firſt, The obſervable things in the life of the upright in his actings; nextly towards God, The firſt Character is a holding forth the higheſt eſteem of Commu<g ref="char:EOLhyphen"/>nion with God in his Ordinances, and therefore a faithful improvement of all good opportunities for that purpoſe: For that purpoſe, Oh mark how the upright ſoul prizeth Communion with God; his prizing Com<g ref="char:EOLhyphen"/>munion with God, is like the price the thirſty ſets upon drink, an only good, none ſuch at that time, the voice of the upright eſpecially in time of privation is expreſt experimentally by <hi>David, Pſal 42.1, 2, As the Hart panteth after the Water-brooks, ſo panteth my ſoul after thee O God;</hi> My ſoul thirſteth for God, for the living God, when ſhall I come and appear before God, <hi>ver. 3. My tears have been my meat day and night, while they continually ſay unto me where is thy God, ver. 4.</hi> when I re<g ref="char:EOLhyphen"/>member theſe things, I pour out my ſoul in me: Oh! what pantings, thirſtings, weepings, and ſoul-pourings out for the enjoyment of Com<g ref="char:EOLhyphen"/>munion
+<pb n="4" facs="tcp:103639:4"/>with the Living God, which do moſt feelingly argue the higheſt eſteem of Communion with God in the hearts of his upright atten<g ref="char:EOLhyphen"/>dants: Hence theſe longings for a Sabbath, for a Faſt day, for a Ser<g ref="char:EOLhyphen"/>mon, while others long for an end of the Sabbath, that they may be a<g ref="char:EOLhyphen"/>gain into their worldly occaſions and vanities; and hence follows that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aithful improvement of all good oportunities for the ſake of Commu<g ref="char:EOLhyphen"/>nion with God, I ſay all ſeaſons both ſet and ſolemn ſeaſons, and occa<g ref="char:EOLhyphen"/>ſional ſeaſons, taking the oportunity when given <hi>and redeeming time,</hi> as it's called, <hi>Epluſ. 5.</hi> and when it cannot be gained without it coſts him ſomething; yet an upright Soul will and muſt have ſeaſons for Com<g ref="char:EOLhyphen"/>munion with God what ever they coſt him, though he makes the World pay for it, and ſleep pay for it, and hazards his health for it, and all, yet Mark the upright, how faithful he is in taking and improving ſeaſons of Communion with God, while the Hypocrite, the Deceiver is wil<g ref="char:EOLhyphen"/>ling to take an excuſe, and make an excuſe, and occaſion that he may not come into the preſence of God, but his deceit is manifeſt.</p>
+            <p>The Second Remarkable thing, in reſpect of the life of the Upright, in his Communion with God, appears in his ſecret Communion with God, in ſecret Prayer, and ſelf examination, theſe are contained in for<g ref="char:EOLhyphen"/>mer generals, as they are means of Communion with God: but yet be<g ref="char:EOLhyphen"/>cauſe theſe have very ſpiritual ſpecialties in them, we m<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> eſpecially mark and behold them, and how the Upright behaves himſelf in them. Firſt, In ſecret Communion with God in ſecret Prayer, an upright Soul cannot content himſelf with publick Prayer and humily, but he muſt come in ſecret into the preſence of his Heavenly Father, and Pray in ſecret, that he may ſee him in ſecret, and reward him openly, <hi>Mat. 6.</hi> and if there were no poſitive command, to require this and that, Con<g ref="char:EOLhyphen"/>ſcience, upon this account could not <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him for a neglect of a Com<g ref="char:EOLhyphen"/>mand of God, yet if the Lord will only grant him liberty to appear in where before him he could not but come, und could no more refrain then you can refrain from going to, and porning out your heart in ſecret to an intimate friend in whom you love is your own Soul, <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 62.8. Pour out your <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fore him,</hi> can a Lover refrain from ſecret meetings with his Beloved, the Upright who love the Lord muſt have their, ſecret meetings with Chriſt, wherein they may pour out that which they can<g ref="char:EOLhyphen"/>not before, and with others, <hi>for they ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h him whom their Souts love, Cant. 1.7.</hi> Second place in ſelf- examinatio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the Application of the Dectrine is the life of the Sermon, and Self ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation is the life <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:103639:4"/>Application of the Sermon: the upright cannot content themſelves without frequent and ſolemn practice of this duty, no more then you can content your ſelf when you are a hungry, to have food let you only to look upon, or ſpeak of it, and not take it into your mouth to chew it, therefore mark and behold how he eats Sermons, <hi>and they are the joy of his heart,</hi> Jer. 15.16. and how doth he eat them but by examining his eſtate and actions, his Spirit and Life by them, and not in a ſlighty and overly manner, but by moſt ſerious Communings with the Lord and his own heart upon his Bed, <hi>Pſal. 4.4.</hi> or in ſome other ſecret place, and not only once in a long time, but this is his work every Lords day, yea every day in the Week in ſome meaſure, he is upright in this matter, thus <hi>working out his Salvation with fear and trembling,</hi> Phil. 2.12.13. We can but hint at ſome obſervab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e things: Thus of the actings of the upright towards God; in the ſecond follows his actings towards man.</p>
+            <p>Firſt in Words, Secondly in Works.</p>
+            <p n="1">1. In Words, whoſe endeavour is ſo to ſpeak that he may not of<g ref="char:EOLhyphen"/>fend with his Tongue and therefore keeps a Watch before the door of his lips, <hi>Pſal. 141.3.</hi> But that which the upright ſtrives after, &amp; in ſo he meaſure attain, is better then this, to adminiſter Grace to the heare<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>that his words may be ſeaſoned,</hi> Eph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ. 4.29 Col. 46. <hi>and may become to others a tree of life, bearing precious fruit,</hi> Prov. 15.4. and the words of the upright, proceeding from the uprightneſs of their hearts, are very obſervable things.</p>
+            <p n="2">2. In Works, <hi>Mark and behold the upright, how in his works he lives without offence,</hi> Phil. 2.15. blamel of, and harmleſs, and not only ſo, but ſhining as a Light in the World, as in works of Holineſs God ward, ſo in works of Juſtice, Love and mercy towards others; <hi>full of mercy and good fruit without Hypocriſie,</hi> Jam. 3.17. He that ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es not obſervable thing; in the works of the Upright is ſtrangely blinced: Hitherto of the life of the Upright, nextly follows the remarkable things reſpect<g ref="char:EOLhyphen"/>ing their Death; The Text ſayes, <hi>For the end of that man i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace,</hi> is the end of the Upright peace, how doth this appear? do not ſome who have been upright ſuffer much trouble of minde in their death, and do ex<g ref="char:EOLhyphen"/>preſs none or very little of peace at their latter end? I An<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer, <hi>Firſt,</hi> le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s uſual with the Lord, to ſhine in upon their Souls of his upright one<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before, or at their. Death, that before their departure out of the World it's manifeſt to them, &amp; to diſcerning Spectators, that while they are yeas in their Enemies Land, they are more then Conquerors, <hi>and that <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:103639:5"/>death it ſelf,</hi> Rom. 8.37. Hence the peace that paſſeth underſtanding, and the unſpeakable joy which ſome upright ones feel in their dying hour, which makes them very willing to depart, <hi>Simeon</hi> like, they can depart in ſuch peace, <hi>Luk.</hi> 2.29. Secondly, When it's the pleaſure of the Lord to withhold ſuch a meaſure of this peace, yet it's uſual that he af<g ref="char:EOLhyphen"/>fords them ſo much of this peace as ſhall rule in their hearts, and meek<g ref="char:EOLhyphen"/>ly diſpoſe their ſpirits to divine providence; and behold in this is often ſeen a marvellous thing, that if an upright perſon hath not much of the ſenſe of the ſweetneſs of that unſpeakable peace in his dying hour, and though he is now aware of the miſery of falling ſhort, for none can be ſo ſenſible of that, as thoſe who know experimentally the preciouſ<g ref="char:EOLhyphen"/>neſs of Chriſt and heavenly things: and though alſo many times the very thought, what if deceived? what if fall ſhort at laſt? that thought would make the fleſh tremble; the heart feeling the intollerable weight of a ſuppoſed ſeparation from Chriſt, and yet for ſuch, without any clear evidence of the love of God, to have peace ruling in the heart, as in <hi>Col. 3.15.</hi> and to ſay I am content now to be at the Lords diſpoſe, I commit the cauſe of my ſoul to him, this is very obſervable, <hi>Eli</hi> ſen<g ref="char:EOLhyphen"/>tenced to death, both he and his two Sons, and many other things which ſhall make the cars of every one who heareth it to tingle, <hi>1 Sam. 3.11, 17, 18.</hi> and yet <hi>Eli</hi> enabled to ſay, <hi>It's the Lord, let him do what ſeemeth him good,</hi> there is a peace which is the inſeparable companion of meek<g ref="char:EOLhyphen"/>neſs; <hi>a meek and a quiet ſpirit is of great price,</hi> 1 Pet 3.4. Chriſts Soul<g ref="char:EOLhyphen"/>neſs; <hi>a meek and a quiet ſpirit is of great price,</hi> 1 Pet 3.4. Chriſts Soul-trouble was extream in his dying hour, but yet he had the peace and quietneſs of a meek ſpirit which did rule in his heart, and compoſe his ſpirit to ſubmiſſion to his Fathers Will, and to commit his Spirit into his Fatherly hand, <hi>Luk. 23.46.</hi> and what if it ſhould be the pleaſure of the Lord, that ſome of his Children ſhall have a fellowſhip with Chriſt in his ſuffering Soul-trouble in their dying hour, yet if the Lamb of God doth by his Lamb-like ſpirit, compoſe the heart to a childe-like commit<g ref="char:EOLhyphen"/>ting of the Soul into his fatherly hands, here is peace, the peace and quietneſs of a meek ſpirit; but it's a marve lous thing to have peace ruling in the heart in the midſt of many-troubleſome thoughts in the minde.</p>
+            <p>Thirdly, to conclude this, if the marks of uprightneſs appear in their life; there is no reaſon for us to doubt but that the Lord will make the end of ſuch to be peace, whatever troubles they ſuffer before their <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, if I behold a Chriſtian walking in integrity, making it his in<g ref="char:EOLhyphen"/>tegrity
+<pb n="7" facs="tcp:103639:5"/>making it his dally exerciſe to keep a Conſcience <hi>void of offence <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owards God and towards man,</hi> whatever trouble he may ſuffer in time of ſickneſs and nigh his latter end; yet the Lord ſayes, <hi>Mark this up<g ref="char:EOLhyphen"/>right one,</hi> and have I ſeen the mark of uprightneſs ſtamped upon his life and walk, ſurely the Lord who ſayes <hi>His end ſhall be peace,</hi> doth ſay to me that I ought to believe it, and ought as certainly to believe it, as it I ſee <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enſibly the Angels taking the Soul, and Heavens opening to re<g ref="char:EOLhyphen"/>ceive it, and heard a now Song tuned in Heaven for the triumph of this Soul over death: He that walks in integrity, what ever his labour may be in his journey, and when nigh to his journies end, yet as ſoon as his labour ends his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt is eternal reſt, his peace the peace <hi>which paſſeth un<g ref="char:EOLhyphen"/>derſtanding begins; He ſhall enter into p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, they ſhall reſt in their b<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, each one walking in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is uprightneſs,</hi> Iſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 572.</p>
+            <p>The Second Particular <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ollows, what ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> duty is in obſerving theſe obſervable things; The Lord calls us to mark and behold:</p>
+            <p>Queſt. <hi>What is the marking and beholding?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> It's an affectionate Attention of the minde, It's as when the eye affects the heart, and the heart being affected keeps the eye looking upon the Object, you have the like expreſſion in another place, uſed by <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>obs</hi> friends to <hi>lob</hi> Job 33 31. <hi>Mark wel. Oh Ioh, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hearken to me, hold t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y pea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and I vvill ſpeak,</hi> Oh mark well the lite and latter end of the upright! Oh hearken to what the Lord ſayes concerning their life and death; the ſame Expreſſion the Lord improves to the Prophet, when he would prepare him for the Viſions of the Ordinances of his Houſe, <hi>Ez<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k. 44.5.</hi> The Lord ſaid, <hi>Son of Man, mark well, and behold with thine Eyes, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar with thine Ears all that I ſay to thee, concerning the Ordinances of mine Houſe, and mark well the entring into it;</hi> But in my Text the Lord ſaith, <hi>Mark the perfect and behold the upright,</hi> it's as if the Lord had ſaid, us I would have you mark well and behold mine Or<g ref="char:EOLhyphen"/>dinances, ſo I do requi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e you to mark well and behold the life and latter end of thoſe who have loved my Habitation and ſeen my beauty in my Hou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, have walked with me in the faithful improvement of all my holy Ordinances: This is only the general, let us more particularly conſider, <hi>Firſt,</hi> it's a marking by way of compariſon, the bleſſedneſs of the upright in their lives and latter end in compariſon of others, this is a principal ſcope of the Text, and of the foregoing and following words, and therefore let us comparatively mark the Upright, as if we ſee th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m ſtand at the right hand of Chriſt, and others at his leſt hand, both in their
+<pb n="8" facs="tcp:103639:6"/>life and death: Behold the life of the Upright, how he ſhines as a light in a darkſome World, and ſhall ſhine as the Stars for ever and for ever; and behold how others walk in darkneſs, <hi>and ſhall go into outer darkneſs,</hi> Prov. 3.18, 19. <hi>Behold the <g ref="char:V">Ʋ</g>pright lives as a Citizen of Heaven, having his converſation in Heaven,</hi> Phil. 3. and Heaven is his Country and own place, Heb 11.10. and behold how others live as ſlaves to the World, and in bondage to their Luſts and the Devils temptations, <hi>and they ſhall go to their own places,</hi> Act. 1.25 <hi>Behold the <g ref="char:V">Ʋ</g>pright lives and walks in the ſpirit of Christ,</hi> Gal. 5.28. and you may behold Chriſt living and walking in him, Gal. 2.20. but others live and walk in their own ſpirits, and you may ſee the evil one living and walking in them, Joh. 8.44. Oh mark the latter end of the Upright, in compariſon of the latter end of others; the end of the Upright man is peace, the end of others is no peace but helliſh woe! Oh when the Upright dye, the Angels ſtand ready to receive the Soul, &amp; carry it into <hi>Abrams</hi> Boſome, or rather into <hi>Chriſts</hi> Boſome; when others dye, the Devils ſtand ready to take hold of their Souls, and to hurry them into intollerable and endleſs miſery: were our eyes opened to ſee the Attendants, the Upright have at their dying hour, like the <hi>ſixty</hi> Valliant men ſpoken of in <hi>Cant.</hi> 3.7. about <hi>Solomons</hi> Bed <hi>of the valliant of Iſrael;</hi> but the black Guard, and curſing, and curſed tormentors which are about others in their dying hour, we ſhould readily acknowledge an infinite difference and diſtance the Lord has made between the Upright and others.</p>
+            <p>Secondly, We ſhould mark the Upright by way of Imitation; if we do not in this ſenſe mark them we mark in vain, and behold them to no good purpoſe; the Lord requireth us to mark the life of the Upright as a living example, that may live with us, and in us, and that when they are dead; and to conſider the end of their converſation, that we may live and dye as they, <hi>Heb.</hi> 13.7. the Lord commands us to behold the up<g ref="char:EOLhyphen"/>right who have gone before us, as the <hi>Iſraelites</hi> did behold the Cloud which went before them in the Wilderneſs, <hi>ſhewing them their way through the Wilderneſs unto Canaan, and as if they heard a voice ſaying, Follow me, Heb. 12.1.</hi> We are compaſt about with a Cloud of Wit<g ref="char:EOLhyphen"/>neſſes; Oh all the examples of the Upright who are gone before us, and they are the Cloud in the Wilderneſs to guid us, <hi>Iſai. 6.16. Ask for the way wherein they walked and found rest to their Souls;</hi> Oh mark well and behold the light ſide of this Cloud of their upright Example, it hath a voice ſaying, <hi>Follow this way of Communion with God, and
+<pb n="9" facs="tcp:103639:6"/>walking with the Lord, and ye ſhall have reſt to your Souls.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> Mark the Upright by way of Lamentation, <hi>Iſai. 57.1. the <g ref="char:V">Ʋ</g>pright periſh and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> man layeth it to heart, and the merciful taken away and none conſidering that the Righteous is taken away from the evil to come;</hi> We ſhould ſo mark the life and death of the Upright, that we lay it to heart, not mourning becauſe of their ſtate for they are happy, all tears wip't away, and are lead by the Lambe to the Fountains of wa<g ref="char:EOLhyphen"/>ters, <hi>Rev. 7.17. and Rivers of pleaſure, Pſal. 1.16.</hi> But mourn becauſe they no longer be ſo helpful to us, Oh that wholſome Tongue which was a Tree of life, and o helpful to adminiſtring Grace to the hearer, you ſhall hear it no more, Oh that countenance, and in which Wiſdome and Grace ſhined, you ſhall ſee it no more! Oh that hand which relieved and refreſhed, the bowels of many in mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſhall help no more: help Lord, <hi>the Godly <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſeth and the faithful fail,</hi> Pſal. 12.1. and who knows but ſuch are taken from the evil to come, there may be a dreadful ſtorm at hand, which it may be in tenderneſs to them they are taken away, but we muſt abide and ſuffer it.</p>
+            <p>The Application of the Doctrine follows: The Doctrine it ſelf and the Explication of it is ſo Applicatory in all the parts of it; That I can not but think that you who are conſcientiouſly attentive have been ap<g ref="char:EOLhyphen"/>plying this Doctrine to your Souls while I have been opening of it:</p>
+            <p n="1">1 <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> It commends to us, and ſets before us the ſurpaſſing excellency of Uprightneſs: Doth the Lord call us to mark and behold the Up<g ref="char:EOLhyphen"/>right, becauſe of their happy life and bleſſed death, can we behold their excellency and happineſs, and not behold the excellency of Uprightneſs, which makes them to excel? that is the good which doth us the greateſt good, which doth us good at the latter end, to humble, and to prove, and do thee good at thy latter end, for that is thy good for ever and for ever; but it's uprightneſs, that which doth thee good at thy latter end: <hi>Be<g ref="char:EOLhyphen"/>hold the <g ref="char:V">Ʋ</g>pright, the end of that man is peace;</hi> Oh it's not thy riches and wealth! Oh what can that do in the day of wrath; the covetous who has ſpent his time and ſtrength in the purſuit of the World, and has neg<g ref="char:EOLhyphen"/>lected communion with God, the Ordinances and Means of his Souls good, Oh how is he tormented in that day, <hi>Ezek. 7.19.</hi> wealth cannot deliver his ſoul, <hi>Pſal. 49.7, 8.</hi> it's not honour and applauſe of men, it's not viſible profeſſion and ſome common gifts and abilities, when thy dying hour is come, all the queſtions are reduced to that one, <hi>Whether upright
+<pb n="10" facs="tcp:103639:7"/>or no? whether upright in thy Family relations? whether upright in thy Church Relations? whether thy walk was in uprightneſs?</hi> and if any one Miniſter of Chriſt, or any Godly Friend can Anſwer thee this Queſtion to thy Souls ſatisfaction, he ſhall be to thee a Meſſenger indeed, <hi>one of a thouſand, Job. 33.23.</hi>
+            </p>
+            <p n="2">2 <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> Doth the Lord call u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to mark and behold the Upright in their life and death: You know what hath befallen us, and whom the Lord hath lately taken away from us unto himſelf, His Servant and Hand<g ref="char:EOLhyphen"/>maid, who lived to the Lord, and dyed to the Lord, and is with the Lord; but was a Mother, a nurſing Mother to this afflicted Church and People: I know it will be without offence to you, if I declare to you the re<g ref="char:EOLhyphen"/>markable things worthy of obſervation in her life and death: My God in the expreſs words of the Text requires me to <hi>Mark and Behold</hi> Her Godly life and Happy end, and not bury thoſe Obſervations with her, but that they may live in us, and in the Generations to come.</p>
+            <p>
+               <hi>Firſt.</hi> You have heard how uprightneſs ſhews it ſelf in prizing com<g ref="char:EOLhyphen"/>munion with God, and in a faithful improvement of all opportunities for that purpoſe (1) In reſpect of prizing of Communion with God, its a rare thing to behold ſuch conſtant freſhneſs of Spirit, and affecti<g ref="char:EOLhyphen"/>onate eſteeming of Communion with God: I have frequently ſeen her weep in her ſpeaking of, and lamenting after Communion with Chriſt, but it was a rare thing for her to weep becauſe of any outward loſs or croſs whatſoever. Oh ſhee having kept the ſtrength of her affections for the Lord Chriſt, whom her Soul loved: the Communion with God which ſhe had was manifeſt in pourings out of her heart in his preſence, <hi>Pſal. 6 2.</hi> and it was likewiſe manifeſt in her thirſtings after opportuni<g ref="char:EOLhyphen"/>ties of meeting with God; I have obſerved ſuch a frequent longing for a Sabbath, and longing of Soul for a Sermon, for a day of Faſting and Prayer, and other opportunities, and I have heard her frequently ſay, That a joyful Sabbath did comfort her all the week after, and a ſad Sabbath made a ſad week, that the Lord had brought her deſires into that one deſire, <hi>Pſal. 27.4.</hi> and thus precious to her Soul was one day in the Houſe of the Lord, <hi>Pſal. 84. 10. Secondly,</hi> In reſpect of faithful improvement of her opportunities of Communion with God: Oh with what weakneſs and trembling, difficulty and danger to health and life did ſhe many times come to the publick Ordinances, but ſhe would purpoſely conceal her ſickneſs, often times from her near Rela<g ref="char:EOLhyphen"/>tions of the Sabbath day, leaſt in tenderneſs to her, they ſhould hinder
+<pb n="11" facs="tcp:103639:7"/>her from going to the publick Ordinances; and I have heard her often ſay, that if ſhe could poſſibly go to the Houſe of God, whatever her bodily weakneſs was, yet ſhe did not ſuffer any harm, but many times felt that it was ſtrength, not only to her Soul but health to her body, <hi>Prov. 4.8.</hi>
+            </p>
+            <p>You heard in the <hi>Second place,</hi> How Uprightneſs ſhews it ſelf in ſe<g ref="char:EOLhyphen"/>cret communion with God, in ſecret Prayer, and Self-examination.</p>
+            <p>
+               <hi>Firſt,</hi> In reſpect of ſecret Prayer; She had been ſo acquainted with that Ordinance from a childe, that upon conference I had with her upon that occaſion, I could not perceive that ſhe could charge and accuſe her ſelf of any neglect, not ſo much as one time in thirty years; Oh her Soul knew right well what it was to Pray in ſecret to her Heavenly Fa<g ref="char:EOLhyphen"/>ther, <hi>Mat. 6.</hi> and to be in the ſecret places of the ſtairs with the Lord, <hi>whom her Soul loved, Cant. 2.14.</hi> (2.) And concerning Self examina<g ref="char:EOLhyphen"/>tion; beſides other daily exerciſes and communings with her heart; I know for many years it was rare that one Sermon paſſed, but ſhe muſt at ſome time or other in that week take an opportunity to confer about it, and gather out that portion which did belong to her: It was very rare that one day in the week paſſed but ſhe muſt ſet a time to read and meditate, and apply the Word to her own Soul; and were I able to re<g ref="char:EOLhyphen"/>hearſe the many Spiritual, Weighty, and Narrow Queſtions and Diſ<g ref="char:EOLhyphen"/>courſes I have heard from her, it would fill up a large Book: <hi>Thus did ſhe eat the Word, Jer. 15.16.</hi> and was thus laborious in <hi>working out her Salvation with fear and trembling,</hi> Phil. 2.12. Thus of her Actings to<g ref="char:EOLhyphen"/>wards God. (2.) You have heard how Uprightneſs ſhews it ſelf in actings towards others: <hi>Firſt,</hi> In Words. <hi>Secondly,</hi> In Works. In reſpect to her Words, You know what a Law of Wiſdome and Hea<g ref="char:EOLhyphen"/>venly mindedneſs, of meekneſs &amp; kindneſs was in her mouth, <hi>Prov. 31.26.</hi> The Lord having gifted her with a meaſure of Knowledge above what is uſual in that Sex; So I know if ſhe had an opportunity with a Godly friend, and the time had been ſpent in Diſcourſe about Worldly occaſions, and if ſhe had not redeemed ſome time out of it for Heaven<g ref="char:EOLhyphen"/>ly Conference, I have heard her ſpeak of it with grief, <hi>For the mouth of the Righteous ſpeaketh Wiſdome, and his tongue talketh of Judgements,</hi> Pſal. 37.30. as ſhe had opportunities by reaſon of her uſefulneſs to the afflicted, ſo how the Lord ſupplied her with a Word in ſeaſon; Oh you who have been afflicted know theſe things right well.</p>
+            <p n="2">2. Concerning her Works, I need not tell you what a <hi>Dorcas</hi> you
+<pb n="12" facs="tcp:103639:8"/>have loſt Men Women and Children, are ready with weeping, to ac<g ref="char:EOLhyphen"/>knowledge what works of mercy ſhe hath done for them, <hi>Act. 9.39.</hi> the ſhort time and my afflicted ſtate will not ſuffer me to enlarge, but if I could, I do not affect ſaying any more, but that which my Text, and the preſent providence calls me to ſpeak: Theſe are Monuments to minde you of much more. But before I conclude, I muſt not omit ſome very obſervable things concerning her <hi>Death.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Shee knew nothing by her ſelfe that was matter of trou<g ref="char:EOLhyphen"/>ble of Conſcience in this day, but the Lord had quieted her ſpirit concerning her Spiritual ſtate: She was deſirous to live for the good of her Family, but content to dye if the Lord would have it be ſo, as ſhe ſaid; But the obſervable thing with me is this, I know ſhe was uſually in time of health, full of ſpiritual exerciſe and darkſome ob<g ref="char:EOLhyphen"/>jections about her ſpiritual ſtate: but in time of ſickneſs ſtill the Clouds were ſcattered, full of fears at other times, but the Lord was no terrour to her in the evil day, but her hope; and ſo it proved at her Death.</p>
+            <p>
+               <hi>Secondly,</hi> She had ſome taſte of unſpeakable peace and comfort, which in the midſt of ſuch pains ſo diſturbing and confounding to the outward and inward ſenſes, yet made her ſay, <hi>ſhe ſhould be at home in a little time, being ready to depart to her Fathers houſe,</hi> Joh. 14.2, 3. and ſhee who had the Spirit of Adoption, could not but under the pains of death, call <hi>Abba Father for help,</hi> Rom. 8.</p>
+            <p>
+               <hi>Thirdly,</hi> When ſhe was under the pangs of Death, and Nature could not be at <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt, yet I ſpeaking to her whether I ſhould Pray once more with her? to which ſhe readily anſwered yea, and during all the time of the Prayer, lay as fully compoſed as at any time; that either the Lord at that time rebuked the pangs of death, and cauſed the King of terrors to retreat his force, or elſe the Prince of peace would ſhew us that his peace when he pleaſeth ſhall rule, and that in the Enemies Land, in the midſt of the terrours of Death, and that ſhe had to incounter with a Conquered Enemy, <hi>Iohn 16. uit.</hi>
+            </p>
+            <p>The laſt <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> is by way of comfort, to thoſe who mourn becauſe the Upright are taken away from them. (1.) Conſider, there is no reaſon to mourn becauſe of their ſtate, <hi>for their end is peace,</hi> and they would not change their place again <hi>for ten thouſand Worlds, Rev. 14. Bleſſed are they who dye in the Lord, they reſt from their labours and their works fol<g ref="char:EOLhyphen"/>low them,</hi> I have heard her ſay, that when the Lord in an Ordinance had come nigh to her Soul, it was a grief to her to think of going into
+<pb n="13" facs="tcp:103639:8"/>worldly occaſions; Oh how is her Soul <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>sfied, and abundantly fill in the preſence of Chriſt now, <hi>Rev. 7.17.</hi>
+            </p>
+            <p n="2">2. If you would have comfort againſt your loſs, lament after the Lord Chriſt his Spiritual preſence; this Upright one makes the Up<g ref="char:EOLhyphen"/>right ſuch, and keeps them ſuch to their end: are they ſo precious, Oh how precious is Jeſus, the ſavour of whoſe Ointment is ſuch that the Virgins love him, <hi>and his love is better then Wine, therefore the <g ref="char:V">Ʋ</g>pright love him, Cant. 1.3, 4.</hi> Oh pour out thy heart to Chriſt, and ſay, I la<g ref="char:EOLhyphen"/>ment my loſs of an upright Servant of thine: Oh thou canſt make up my loſs by thy preſence.</p>
+            <p n="3">3. Preſerve the memory of the Upright by imitating of them; It's a pleaſing thing to love when it can no longer enjoy the preſence of the Beloved, yet to preſerve the memory of the Beloved, and is there any way to preſerve the memory of the Upright ſo as by imitating of them, Children are the Off-ſpring of Parents, and are their Images, and there<g ref="char:EOLhyphen"/>fore Parents live in their Children, eſpecially if the Childe imitates his Parent; thence is the Proverb, <hi>That a Parent will live ſo long as that Childe lives.</hi> you Children, who have loſt a very Godly Mother: you Chriſtian Friends and Neighbours; who have loſt a Godly Friend, I need not exhort you to mourn, you have more need at this time of ſome comfort to prevent exceſs: But would you ſhew love indeed to her, Oh preſerve her memory, and that muſt be by imitating of her; think and ſpeak of, Oh weep and pray over theſe obſervable things in her Life and Death, that you prize Communion with God as ſhe did, that you may love Prayer and Self-examination as ſhe did, and abound in good works: <hi>Thus ſhall her memory be bleſſed to you, Prov. 10.7. and you ſhall be Bleſſed at your latter ends.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
